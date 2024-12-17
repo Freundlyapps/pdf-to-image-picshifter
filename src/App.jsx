@@ -262,7 +262,7 @@ function App() {
                   onClick={() => downloadImage(page, index)}
                   className="mt-4 px-4 py-2 bg-gradient-primary text-white rounded hover:opacity-90 transition-opacity"
                 >
-                  Download Page {index + 1}
+                  Download image {index + 1}
                 </button>
               </div>
             ))}
